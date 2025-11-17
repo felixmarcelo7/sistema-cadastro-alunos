@@ -1,5 +1,5 @@
 const Plans = () => {
-  return <div>Plan Page</div>;
+  return <div className="font-primary text-font-primary">Plan Page</div>;
 };
 
 export default Plans;

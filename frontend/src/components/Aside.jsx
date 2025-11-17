@@ -17,7 +17,7 @@ const Aside = () => {
   };
 
   return (
-    <aside className="fixed left-0 top-0 w-44 h-full bg-yellow-300 z-50 shadow-lg rounded-r-2xl">
+    <aside className="font-primary text-font-primary fixed left-0 top-0 w-44 h-full bg-bg-components z-50 shadow-lg rounded-r-2xl">
       <div className="p-4 flex flex-col justify-center items-center">
         <h2 className="text-2xl font-bold">LOGO</h2>
         <ul className="text-sm flex flex-col w-full">

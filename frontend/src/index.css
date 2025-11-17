@@ -1,1 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Lexend+Mega:wght@100..900&display=swap");
 @import "tailwindcss";
+
+@theme {
+  --font-primary: "Figtree", sans-serif;
+  --color-font-primary: #000000;
+  --color-nav: #2563eb;
+  --color-button: #5fcc89;
+  --color-bg-app: #e9e8e8;
+  --color-bg-components: #ffffff;
+}

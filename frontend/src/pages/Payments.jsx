@@ -1,4 +1,4 @@
 const Payments = () => {
-  return <div>Payments Page</div>;
+  return <div className="font-primary text-font-primary">Payments Page</div>;
 };
 export default Payments;

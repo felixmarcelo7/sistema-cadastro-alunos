@@ -1,5 +1,5 @@
 const Classes = () => {
-  return <div>Classes Page</div>;
+  return <div className="font-primary text-font-primary" >Classes Page</div>;
 };
 
 export default Classes;
