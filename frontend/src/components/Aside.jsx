@@ -1,8 +1,7 @@
 import { useState } from "react";
 import { LuClipboardList } from "react-icons/lu";
 import { IoIosArrowDown } from "react-icons/io";
-import { TbGraph } from "react-icons/tb";
-import { TbUserPlus } from "react-icons/tb";
+import { TbGraph, TbUserPlus } from "react-icons/tb";
 import { BiDollarCircle } from "react-icons/bi";
 import { HiOutlineUserGroup } from "react-icons/hi";
 import { LuBanknote } from "react-icons/lu";
