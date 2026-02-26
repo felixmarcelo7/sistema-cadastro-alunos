@@ -239,7 +239,7 @@ const Studantes = () => {
           </div>
         </form>
       </section>
-      <section className="bg-amber-50 mr-5 rounded-md font-primary shadow-md mt-2 px-8 py-4 overflow-auto h-[62%]">
+      <section className="bg-amber-50 mr-5 rounded-md font-primary shadow-md mt-2 px-20 py-4 overflow-auto h-[62%]">
         {/* tabela de alunos cadastrados */}
         <form action="" className="flex flex-wrap gap-x-2 justify-end text-sm">
           <input
